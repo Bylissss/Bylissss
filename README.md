@@ -1,16 +1,23 @@
-## Hi there 👋
+# 'Sup
 
-<!--
-**Bylissss/bylissss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently
 
-Here are some ideas to get you started:
+I am currently working game name On Rail Western(genre is literly on title) it's not visible because i try to do for profit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and
+
+Also try to learn play with Angular and other dev-ops(DNS, Routing, Nginx) for website making
+
+## Learning
+
+Because of that learning GDScript and other disciplines of game development.
+
+## Contanct
+
+ercanturkyilmaz@4thlandstudios.com
+
+### Fun Fact
+
+The more i learn front-end more i realize why every site works like shit.
+
+WHY, WHY DO YOU USE `===`(triple equals) FOR CHEKING CORRECTLY WHY.
